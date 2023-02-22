@@ -4,4 +4,8 @@ public class Gravitacija {
         System.out.println("OIS je zakon!");
     }
 
+    public static void izpisi(double st) {     //naprinta double
+        System.out.println(st);
+    }
+
 }
