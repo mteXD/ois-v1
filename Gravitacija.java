@@ -4,8 +4,12 @@ public class Gravitacija {
         System.out.println("OIS je zakon!");
     }
 
-    public static void izpisi(double st) {     //naprinta double
-        System.out.println(st);
+    public static void izpisiNadmorskaVisina(double nadVisina) {     //naprinta nadmorsko višino
+        System.out.println(nadVisina);
+    }
+
+    public static void izpisiGravitacijskiPospesek(double gravitacijskiPospesek) {      //Naprinta gravitacijski pospešek
+        System.out.println(gravitacijskiPospesek);
     }
 
 }
