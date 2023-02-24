@@ -18,5 +18,12 @@ public class Gravitacija {
         return a * a;
     }
 
-}
+    public static void izpisiNadmorskaVisina(double nadVisina) {     //naprinta nadmorsko višino
+        System.out.println(nadVisina);
+    }
 
+    public static void izpisiGravitacijskiPospesek(double gravitacijskiPospesek) {      //Naprinta gravitacijski pospešek
+        System.out.println(gravitacijskiPospesek);
+    }
+
+}
